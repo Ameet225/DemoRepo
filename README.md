@@ -1,4 +1,7 @@
 # DemoRepo
 First Git repo <br>
 woa
-```Hello this is my first time epxloring git/github
+```bash
+Hello this is my first time epxloring git/github
+```
+awekdhjf
